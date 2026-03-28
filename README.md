@@ -1,4 +1,4 @@
-# DACA Portfoolio -- [Sinu Nimi]
+# DACA Portfoolio -- [Urmas Tammekun]
 
 ## Minust
 Olen pikaaegse telekommunikatsiooni taustaga insener. Olen seni palju andmetöötlust teostanud Excelis, mis ei ole just ideaalne vahend suurte andmemahtude käsitlemiseks. Loodan, et andmeanalüütiku koolituse abil jõuan uuele tasemele töös andmetega.
