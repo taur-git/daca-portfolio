@@ -1,4 +1,4 @@
-# DACA Portfoolio -- \[Urmas Tammekun]
+# DACA Portfoolio -- [Urmas Tammekun]
 
 ## Minust
 
@@ -22,9 +22,7 @@ Olen pikaaegse telekommunikatsiooni taustaga insener. Olen seni palju andmetöö
 |9-10|Portfoolio + Karjäär|Tulemas|
 
 \## Kontakt
-
 \- \*\*GitHub:\*\* \[github.com/taur-git](https://github.com/taur-git)
-
 \- \*\*Email:\*\* urmas.tammekun@gmail.com
 
 
