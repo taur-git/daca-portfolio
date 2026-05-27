@@ -1,4 +1,4 @@
-# DACA Portfoolio -- [Urmas Tammekun]
+# DACA Portfoolio -- Urmas Tammekun
 
 ## Minust
 
