@@ -13,12 +13,12 @@ Olen pikaaegse telekommunikatsiooni taustaga insener. Olen seni palju andmetöö
 |Nädal|Teema|Staatus|
 |-|-|-|
 |0|Onboarding|Läbitud|
-|1|SQL Basics|Käimas|
-|2|SQL Cleaning|Tulemas|
-|3|SQL JOINs|Tulemas|
-|4|SQL Aggregation|Tulemas|
-|5-6|Visualiseerimine|Tulemas|
-|7-8|Python|Tulemas|
+|1|SQL Basics|Läbitud|
+|2|SQL Cleaning|Läbitud|
+|3|SQL JOINs|Läbitud|
+|4|SQL Aggregation|Läbitud|
+|5-6|Visualiseerimine|Läbitud|
+|7-8|Python|Läbitud|
 |9-10|Portfoolio + Karjäär|Tulemas|
 
 \## Kontakt
