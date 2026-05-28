@@ -10,11 +10,11 @@ NULL totalprice:0
 Tuleviku kuupäevad:9
 
 Osalesin meeskonna andmemaastiku koostamisel
-Peamised õppetunnid
-SQL päringutes mitte unustada * kasutamist vajadusel
+Peamised õppetunnid:
+Andmete puhastamine enne analüüsi on hädavajalik.
 [Õppetund 2]
 Failid
-week1_products_exploration.sql -- minu SQL päringud
-week1_results_screenshot.png -- tulemuste pilt
+week2_sales_cleaning.sql -- minu SQL päringud
+week2_sales_cleanng_report.md -- individuaalne puhastamisraport
 Meeskonna töö
 [Link meeskonna Data Landscape slaidile]
