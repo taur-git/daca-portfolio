@@ -1,6 +1,6 @@
 # Nädal 4: SQL aggregation
 
-
+Teostasin kliendigruppide analüüsi CTE-ga
 
 Kasutasin AI-d SQL-päringute kiireks selgitamiseks ja koodi kommenteerimiseks — see aitas mõista, miks iga rida töötab, mitte ainult et see töötab. Eriti kasulik oli CTE struktuuri ja aknafunktsioonide (SUM() OVER ()) loogika lahtiselgitamine, mis oleks üksi palju kauem aega võtnud.
 

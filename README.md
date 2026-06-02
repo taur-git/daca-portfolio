@@ -19,7 +19,7 @@ Olen pikaaegse telekommunikatsiooni taustaga insener. Olen seni palju andmetöö
 |4|SQL Aggregation|Läbitud|
 |5-6|Visualiseerimine|Läbitud|
 |7-8|Python|Läbitud|
-|9-10|Portfoolio + Karjäär|Tulemas|
+|9-10|Portfoolio + Karjäär|Läbitud|
 
 \## Kontakt
 \- \*\*GitHub:\*\* \[github.com/taur-git](https://github.com/taur-git)
