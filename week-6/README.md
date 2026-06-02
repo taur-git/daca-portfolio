@@ -1,12 +1,12 @@
-# Nädal 5: Visualisation Design
+# Nädal 6: Visualiseerimise andmed
 
+Tartu kaupluse dashboard + narratiiv
 
+Peamised õppetunnid: 
 
-Peamised õppetunnid: PowerBI on uus võimas tööriist, mis vajab sügavamat tundmaõppimist.
+Vajasin AI abi Github'i toimingutes
 
-
-
-Failid: urbanstyle_week-5-dashboard.pbix
+Failid: Tartu_dashboard.png
 
 
 
