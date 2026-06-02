@@ -1,5 +1,6 @@
 # Nädal 3: SQL joinid
 
+Uurisin TOP kliente INNER JOIN-iga. Leidsin, et 762 kliendi kogumüük on üle keskmise. 
 
 Osalesin meeskonna andmemaastiku koostamisel 
 Peamised õppetunnid: 
